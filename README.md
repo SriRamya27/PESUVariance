@@ -1,5 +1,5 @@
 # PESUVariance
 A Full Stack website
-It allows students to enhace their skills on topics related to data science by participating in competitions and quizzes
+which allows students to enhace their skills on topics related to data science by participating in competitions and quizzes
 Technologies used: PostgreSQL, Flask, HTML and CSS
 
