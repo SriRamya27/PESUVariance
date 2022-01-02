@@ -6,7 +6,7 @@ RUN ALL SQL FILES IN "bin" FOLDER IN "POSTGRES" FOLDER (where postgres is instal
 
 RUN ALL PYTHON FILES WHERE THAT python FILE IS PRESENT.
 
-RUN THEM ALL IN ORDER YA GUYS
+RUN THEM ALL IN THIS ORDER 
 -------------------------------------------------------------------------------------------------------------------
 
 psql -U postgres -f "C:\Users\Sravya Yepuri\Desktop\PESUVariance\Assignment2\final\pesuvariance_create.sql"
