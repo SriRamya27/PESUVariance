@@ -9,13 +9,13 @@ RUN ALL PYTHON FILES WHERE THAT python FILE IS PRESENT.
 RUN THEM ALL IN THIS ORDER 
 -------------------------------------------------------------------------------------------------------------------
 
-psql -U postgres -f "C:\Users\Sravya Yepuri\Desktop\PESUVariance\Assignment2\final\pesuvariance_create.sql"
+psql -U postgres -f "C:\Users\RAMYA\Desktop\PESUVariance\Assignment2\final\pesuvariance_create.sql"
 
 python user.py
 
 Python dataset.py
 
-psql -U postgres -f "C:\Users\Sravya Yepuri\Desktop\PESUVariance\Assignment2\final\pesuvariance_insert.sql"
+psql -U postgres -f "C:\Users\RAMYA\Desktop\PESUVariance\Assignment2\final\pesuvariance_insert.sql"
 
 python c_images.py
 
